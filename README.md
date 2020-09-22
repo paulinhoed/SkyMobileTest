@@ -1,7 +1,5 @@
 ![picture](SKY_APP.png | width=100)
 
-![picture](SKY_APP_detail.png | width=100)
-
 ################################################################################################
  
  O app foi implementado seguindo o TDD para arquitetura Clean Code (VIPER).
